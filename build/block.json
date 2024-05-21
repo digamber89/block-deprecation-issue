@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "digthis/block-deprecation-issue",
+  "version": "1.0.0",
+  "title": "Test Block Deprecation Issue",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "BLock Deprecation Issue",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "block-deprecation-issue",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}
