@@ -35,16 +35,5 @@ registerBlockType(metadata.name, {
 	/**
 	 * @see ./save.js
 	 */
-	save,
-	deprecated: [
-		{
-			save () {
-				return (
-					<p>
-						{'Test Block Deprecation Issue – hello from the saved content!'}
-					</p>
-				)
-			},
-		},
-	],
+	save
 })
