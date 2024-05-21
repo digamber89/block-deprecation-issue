@@ -17,8 +17,8 @@ import { useBlockProps } from '@wordpress/block-editor';
  */
 export default function save() {
 	return (
-		<p>
+		<div>
 			{ 'Test Block Deprecation Issue – hello from the saved content!' }
-		</p>
+		</div>
 	);
 }
