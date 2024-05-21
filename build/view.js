@@ -1,1 +1,0 @@
-console.log("Hello World! (from digthis-block-deprecation-issue block)");
